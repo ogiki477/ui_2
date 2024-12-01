@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:ui_2/screens/OnboardingScreen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -9,17 +10,10 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Scaffold(
-        appBar: AppBar(
-          actions: [],
-        ),
-        body: const Column(
-          crossAxisAlignment: CrossAxisAlignment.center,
-          children: [Text("My Name is OMO Moses ")],
-        ),
-      ),
+      title: 'Onboarding Screen',
+      home: Onboardingscreen(),
     );
   }
 }
