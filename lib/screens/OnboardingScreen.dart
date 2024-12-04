@@ -29,6 +29,7 @@ class _OnboardingscreenState extends State<Onboardingscreen> {
                   color: Colors.grey,
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
+                  //yoooooo
                 ),
               ),
             ),
