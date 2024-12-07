@@ -30,6 +30,7 @@ class _OnboardingscreenState extends State<Onboardingscreen> {
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
                   //yoooooo
+                  //omo moses
                 ),
               ),
             ),
