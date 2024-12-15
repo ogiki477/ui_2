@@ -34,7 +34,9 @@ class _OnboardingscreenState extends State<Onboardingscreen> {
                   
                   //Omo Moses 2
 
-                  
+
+
+
 
                 ),
               ),
