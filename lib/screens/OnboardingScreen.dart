@@ -29,18 +29,6 @@ class _OnboardingscreenState extends State<Onboardingscreen> {
                   color: Colors.grey,
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
-                  //yoooooo
-                  //omo moses
-                  
-                  //Omo Moses 2
-
-
-
-
-
-
-
-
                 ),
               ),
             ),
